@@ -9,7 +9,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/websocket-server-example.git
+git clone https://github.com/urfan03/websocket-server-example.git
 cd websocket-server-example
 Install the necessary dependencies:
 
